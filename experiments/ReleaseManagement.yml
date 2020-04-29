@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a92ff9da971db4c3839
+type: experiment
+name: Release Management
+flag: ReleaseManagement
+conditions:
+  - group:
+      name: QAUA
+    value: false
+value: false
