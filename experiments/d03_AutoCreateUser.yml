@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1306bbad4bf2fbfcfe371
+type: experiment
+name: d03_ Auto Create User
+flag: d03_AutoCreateUser
+value: false
