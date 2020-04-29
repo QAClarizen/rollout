@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05ac39a435606a51919f0
+type: experiment
+name: Show Financial Planning Labor Resources
+flag: ShowFinancialPlanningLaborResources
+conditions:
+  - group:
+      name:
+        - Like a Version
+        - FPTestElad Hahahah Elad
+    value: true
+value: true
