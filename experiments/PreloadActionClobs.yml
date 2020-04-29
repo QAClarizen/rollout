@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05aacff9da9e23f4c3a7b
+type: experiment
+name: Preload Action Clobs
+flag: PreloadActionClobs
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - BR_TEST
+    value: true
+value: false
