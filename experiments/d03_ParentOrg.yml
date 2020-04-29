@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea134bc1e5e3d72fd13021f
+type: experiment
+name: d03_ Parent Org
+flag: d03_ParentOrg
+conditions:
+  - group:
+      name:
+        - d03_SMSC
+        - d03_smsc clone refresh testing 6
+        - d03_Programm  483780
+    value: true
+value: false
