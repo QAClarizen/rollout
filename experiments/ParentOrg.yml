@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a92ff9da99b3e4c3837
+type: experiment
+name: Parent Org
+flag: ParentOrg
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - Programm  483780
+    value: true
+value: false
