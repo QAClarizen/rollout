@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a9a9a435691a81916ad
+type: experiment
+name: Report Fields Relabeling
+flag: ReportFieldsRelabeling
+conditions:
+  - group:
+      name: upgradedToEnhanced
+    value: false
+  - group:
+      name: testru Fiscal Calendar  March1
+    value: true
+value: true
