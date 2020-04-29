@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea13608fdbd4d533bcaa434
+type: experiment
+name: d03_ Use New Version Of Resource Management
+flag: d03_UseNewVersionOfResourceManagement
+conditions:
+  - group:
+      name:
+        - d03_EINAT78
+        - d03_EINAT88
+    value: false
+  - group:
+      name:
+        - d03_QAUA
+        - d03_Like a Version
+    value: true
+value: false
