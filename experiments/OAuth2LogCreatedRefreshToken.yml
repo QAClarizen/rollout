@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a859a435666791913b4
+type: experiment
+name: O Auth2 Log Created Refresh Token
+flag: OAuth2LogCreatedRefreshToken
+value: false
