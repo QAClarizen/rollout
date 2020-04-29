@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea151ee8455943d27114f43
+type: experiment
+name: Api Tokens
+flag: ApiTokens
+conditions:
+  - group:
+      name: sksksksk
+    value: true
+value: false
