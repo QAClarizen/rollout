@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_AddRelatedObjects_Chrome190691
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '805822'
