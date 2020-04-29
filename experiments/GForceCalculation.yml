@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a569a4356bcab190eaf
+type: experiment
+name: G Force Calculation
+flag: GForceCalculation
+value: false
