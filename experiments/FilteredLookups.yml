@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a409a43562d8c190d08
+type: experiment
+name: Filtered Lookups
+flag: FilteredLookups
+value: true
