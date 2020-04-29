@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_assignGroupMembers_Chrome244222
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '816524'
