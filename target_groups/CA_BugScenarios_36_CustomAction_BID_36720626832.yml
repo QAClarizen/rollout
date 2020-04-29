@@ -1,0 +1,7 @@
+type: target-group
+name: CA_BugScenarios_36_CustomAction_BID_36720626832
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '808612'
