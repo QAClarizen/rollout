@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_WorkitemTree_Chrome975718
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '817111'
