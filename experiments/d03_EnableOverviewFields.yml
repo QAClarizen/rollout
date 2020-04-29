@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1329f1577b75e0d39e3f1
+type: experiment
+name: d03_ Enable Overview Fields
+flag: d03_EnableOverviewFields
+value: true
