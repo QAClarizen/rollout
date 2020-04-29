@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea131ab851e36144e58d8e2
+type: experiment
+name: d03_ Enable Async Login
+flag: d03_EnableAsyncLogin
+value: true
