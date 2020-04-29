@@ -1,0 +1,7 @@
+type: target-group
+name: Add_Delete_NLR975802
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '816994'
