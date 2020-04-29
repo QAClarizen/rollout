@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a826d278659e9116969
+type: experiment
+name: Notify Objects View Not Found
+flag: NotifyObjectsViewNotFound
+value: false
