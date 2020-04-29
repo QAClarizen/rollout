@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05b0bff9da994d34c42f7
+type: experiment
+name: Trace Scheduled Workflow Rules
+flag: TraceScheduledWorkflowRules
+conditions:
+  - group:
+      name:
+        - testru Fiscal Calendar  March1
+        - _clone2
+    value: true
+value: false
