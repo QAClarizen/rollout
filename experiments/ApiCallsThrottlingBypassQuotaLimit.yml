@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea151b9258682d2eb652fd4
+type: experiment
+name: Api Calls Throttling Bypass Quota Limit
+flag: ApiCallsThrottlingBypassQuotaLimit
+value: false
