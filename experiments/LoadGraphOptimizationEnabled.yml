@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a55ff9da933a04c32cb
+type: experiment
+name: Load Graph Optimization Enabled
+flag: LoadGraphOptimizationEnabled
+value: false
