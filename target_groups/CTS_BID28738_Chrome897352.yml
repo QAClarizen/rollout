@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_BID28738_Chrome897352
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '806828'
