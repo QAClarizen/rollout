@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_MSTemplate_Chrome439395
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814609'
