@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1349a57e34b1c04ad7040
+type: experiment
+name: d03_ Ignore Calculated Custom Fields In Save As Template
+flag: d03_IgnoreCalculatedCustomFieldsInSaveAsTemplate
+value: true
