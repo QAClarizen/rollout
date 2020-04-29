@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea132f91577b77e5a39edd3
+type: experiment
+name: d03_ Enable Scim Mappings Editing
+flag: d03_EnableScimMappingsEditing
+conditions:
+  - group:
+      name:
+        - d03_Vadim QA Cloning
+        - d03_sharepointlohikacom
+        - d03_Clone 1
+    value: true
+value: false
