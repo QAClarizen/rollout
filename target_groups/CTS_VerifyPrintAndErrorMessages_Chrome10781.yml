@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_VerifyPrintAndErrorMessages_Chrome10781
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '816773'
