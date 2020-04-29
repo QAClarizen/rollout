@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea133d6ef3d755bb9e39968
+type: experiment
+name: d03_ Integrations Check Sync Hash
+flag: d03_IntegrationsCheckSyncHash
+value: true
