@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_BrowsingBetweenSubsystems_Chrome449965
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '801157'
