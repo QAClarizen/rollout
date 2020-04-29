@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea133c4ef3d750598e39771
+type: experiment
+name: d03_ Ignore Api Updates With Same Values
+flag: d03_IgnoreApiUpdatesWithSameValues
+value: false
