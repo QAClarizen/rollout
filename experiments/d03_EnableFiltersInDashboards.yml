@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1323f2e191d1c5036f61a
+type: experiment
+name: d03_ Enable Filters In Dashboards
+flag: d03_EnableFiltersInDashboards
+conditions:
+  - group:
+      name: d03_new445
+    value: false
+value: true
