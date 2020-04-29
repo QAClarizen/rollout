@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1310bfb75fa09a35a4bd5
+type: experiment
+name: d03_ Custom Field Can Inherit Permissions
+flag: d03_CustomFieldCanInheritPermissions
+conditions:
+  - group:
+      name:
+        - d03_testru Fiscal Calendar  March1
+        - d03_upgradedToEnhanced
+    value: false
+  - group:
+      name: d03_upgradedToBasic
+    value: true
+value: false
