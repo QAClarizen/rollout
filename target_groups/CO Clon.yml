@@ -1,0 +1,7 @@
+type: target-group
+name: CO Clon
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '812383'
