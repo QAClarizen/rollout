@@ -1,0 +1,7 @@
+type: target-group
+name: CTS_BrowsingBetweenViews_Chrome271029
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '814623'
