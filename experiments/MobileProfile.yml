@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a626d27867f40116661
+type: experiment
+name: Mobile Profile
+flag: MobileProfile
+value: true
