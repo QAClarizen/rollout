@@ -1,0 +1,7 @@
+type: target-group
+name: CLZDEV_20947488705
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '813280'
