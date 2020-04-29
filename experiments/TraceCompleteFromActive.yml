@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05ade9a4356724a191c47
+type: experiment
+name: Trace Complete From Active
+flag: TraceCompleteFromActive
+value: false
