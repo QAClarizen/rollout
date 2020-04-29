@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea132530151fca048ac4093
+type: experiment
+name: d03_ Enable Grid Row Number Column
+flag: d03_EnableGridRowNumberColumn
+conditions:
+  - group:
+      name: d03_Elad MM  184706
+    value: false
+  - group:
+      name:
+        - d03_Natalia
+        - d03_Like a Version
+        - d03_FPTestElad Hahahah Elad
+        - d03_Natalia 2
+    value: true
+value: false
