@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1306339b8b907dd1fed66
+type: experiment
+name: d03_ Api Tokens
+flag: d03_ApiTokens
+conditions:
+  - group:
+      name: d03_sksksksk
+    value: true
+value: false
