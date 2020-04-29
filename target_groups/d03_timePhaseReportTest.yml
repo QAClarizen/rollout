@@ -1,0 +1,7 @@
+type: target-group
+name: d03_timePhaseReportTest
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '657798'
