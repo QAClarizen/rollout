@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea133032e191d33f537084c
+type: experiment
+name: d03_ Enable Resource Exceptions Inheritance
+flag: d03_EnableResourceExceptionsInheritance
+value: false
