@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea132cfc119c71edd733492
+type: experiment
+name: d03_ Enable Parallel Traverse Of Events Graph
+flag: d03_EnableParallelTraverseOfEventsGraph
+value: false
