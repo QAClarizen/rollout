@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea135f9fdbd4d1f83ca9f21
+type: experiment
+name: d03_ Use Custom Index To Join Relation
+flag: d03_UseCustomIndexToJoinRelation
+value: true
