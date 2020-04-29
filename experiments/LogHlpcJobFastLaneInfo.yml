@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea05a5cff9da90c364c334b
+type: experiment
+name: Log Hlpc Job Fast Lane Info
+flag: LogHlpcJobFastLaneInfo
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+    value: true
+value: false
