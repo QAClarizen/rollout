@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1354e95161653f8da6675
+type: experiment
+name: d03_ Send Hlpc Program Node To Large Rabbit Partition
+flag: d03_SendHlpcProgramNodeToLargeRabbitPartition
+value: false
