@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea134aa57e34bf1a0ad7833
+type: experiment
+name: d03_ Optimize Summary Fields By Class Customized
+flag: d03_OptimizeSummaryFieldsByClassCustomized
+conditions:
+  - group:
+      name:
+        - d03_testru Fiscal Calendar  March1
+        - d03__clone2
+    value: true
+value: true
