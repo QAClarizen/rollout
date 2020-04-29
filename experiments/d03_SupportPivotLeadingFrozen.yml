@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea13522d112691fab6722c3
+type: experiment
+name: d03_ Support Pivot Leading Frozen
+flag: d03_SupportPivotLeadingFrozen
+value: true
