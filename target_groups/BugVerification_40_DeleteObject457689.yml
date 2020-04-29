@@ -1,0 +1,7 @@
+type: target-group
+name: BugVerification_40_DeleteObject457689
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '801244'
